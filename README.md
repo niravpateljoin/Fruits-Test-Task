@@ -61,3 +61,6 @@ npm run build
 ---
 ##  ScreenShot
 
+![Task Functionality 1](doc/screenshot1.png)
+
+![Task Functionality 1](doc/screenshot2.png)
